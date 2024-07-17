@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujan Kumar Shetty
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning Open_Cv
+- 🌱 I’m currently learning Opencv
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Laugh When I'm Angry 
 
